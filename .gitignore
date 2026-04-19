@@ -1,0 +1,5 @@
+.env
+pycache/
+*.pyc
+.streamlit/
+faiss_index/
